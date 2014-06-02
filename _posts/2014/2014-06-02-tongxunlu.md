@@ -4,6 +4,9 @@ title: 上溪镇中 - 九六届初三(2)班 - 通讯录
 categories: 通讯录
 tags: 通讯录
 ---
+> 班级照片在[这里](http://shangxi2ban.github.io/20140602-photo/)
+
+## 通讯录
 
 <table>
     <tbody><tr>
