@@ -49,8 +49,8 @@ table {
 th, td {
     line-height: 1.6em;
     padding: 4px;
-    padding:4px 10px;
-
+    padding:4px 20px;
+    border: 1px solid #999;
 }
 
 th.hname { text-align: left;}
@@ -58,7 +58,7 @@ th.hphone { text-align: center;}
 th.hremark { text-align: left;}
 
 td.name { text-align: left;}
-td.phone { text-align: center;}
+td.phone { text-align: center; background: #f09;}
 td.remark { text-align: left;}
 
 body{
