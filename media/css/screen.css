@@ -43,12 +43,24 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+    border: 1px solid #999;
 }
 
 th, td {
     line-height: 1.6em;
     padding: 4px;
+    padding:4px 10px;
+
 }
+
+th.hname { text-align: left;}
+th.hphone { text-align: center;}
+th.hremark { text-align: left;}
+
+td.name { text-align: left;}
+td.phone { text-align: center;}
+td.remark { text-align: left;}
+
 body{
     font-size: 16px;
     word-spacing: 1px;
