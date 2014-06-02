@@ -52,9 +52,9 @@ th, td {
     border: 1px solid #ccc;
 }
 
-th.hname { text-align: left;}
-th.hphone { text-align: center;}
-th.hremark { text-align: left;}
+th.hname { text-align: left; font-weight: bold; color:#171;}
+th.hphone { text-align: center;font-weight: bold; color:#171;}
+th.hremark { text-align: left;font-weight: bold; color:#171;}
 
 td.name { text-align: left;}
 td.phone { text-align: center;}
