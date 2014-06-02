@@ -48,20 +48,21 @@ table {
 
 th, td {
     line-height: 1.4em;
-    padding: 3px 15px;
+    padding: 3px 18px;
 }
 
 tr {
     border: 1px solid #ccc;
 }
 
-th.hname { text-align: left; font-weight: bold; color:#036;}
-th.hphone { text-align: center;font-weight: bold; color:#036;}
-th.hremark { text-align: left;font-weight: bold; color:#036; width:200px;}
+th.hname { text-align: left; font-weight: bold; background:#efe;}
+th.hphone { text-align: center; font-weight: bold; background:#efe;}
+th.hremark { text-align: left; font-weight: bold; background:#efe; width: 200px;}
 
 td.name { text-align: left; color:#006;}
 td.phone { text-align: center;}
 td.remark { text-align: left;}
+td:hover {background: #cfc;}
 
 body{
     font-size: 16px;

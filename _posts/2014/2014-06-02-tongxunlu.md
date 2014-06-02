@@ -11,7 +11,7 @@ tags: 通讯录
         <th class="hphone">电话</th>
         <th class="hremark">备注</th>
     </tr>
-    
+
     <tr>
         <td class="name">陈文云</td>
         <td class="phone">137 3565 1327</td>
@@ -73,9 +73,9 @@ tags: 通讯录
     </tr>
 
     <tr>
-        <td class="name">沈喜肖(沈宏恩)</td>
+        <td class="name">沈喜肖</td>
         <td class="phone">131 8519 4848</td>
-        <td class="remark">上溪</td>
+        <td class="remark">上溪 (已改名为沈宏恩)</td>
     </tr>
 
     <tr>
