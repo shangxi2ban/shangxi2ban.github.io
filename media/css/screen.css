@@ -48,16 +48,16 @@ table {
 
 th, td {
     line-height: 1.4em;
-    padding: 3px 26px;
+    padding: 3px 10px;
 }
 
 tr {
-    border: 1px solid #eee;
+    border: 1px solid #ccc;
 }
 
 th.hname { text-align: left; font-weight: bold; color:#036;}
 th.hphone { text-align: center;font-weight: bold; color:#036;}
-th.hremark { text-align: left;font-weight: bold; color:#036;}
+th.hremark { text-align: left;font-weight: bold; color:#036; padding-right: 40px;}
 
 td.name { text-align: left; color:#006;}
 td.phone { text-align: center;}
