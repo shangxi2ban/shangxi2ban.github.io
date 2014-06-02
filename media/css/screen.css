@@ -43,20 +43,23 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-    border: 1px solid #ccc;
+    /*border: 1px solid #eee;*/
 }
 
 th, td {
     line-height: 1.4em;
     padding: 3px 26px;
-    border: 1px solid #ccc;
 }
 
-th.hname { text-align: left; font-weight: bold; color:#171;}
-th.hphone { text-align: center;font-weight: bold; color:#171;}
-th.hremark { text-align: left;font-weight: bold; color:#171;}
+tr {
+    border: 1px solid #eee;
+}
 
-td.name { text-align: left;}
+th.hname { text-align: left; font-weight: bold; color:#036;}
+th.hphone { text-align: center;font-weight: bold; color:#036;}
+th.hremark { text-align: left;font-weight: bold; color:#036;}
+
+td.name { text-align: left; color:#006;}
 td.phone { text-align: center;}
 td.remark { text-align: left;}
 
