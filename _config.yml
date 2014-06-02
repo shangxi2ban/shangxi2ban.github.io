@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year:month:day-:title/
+url: http://shangxi2ban.github.io
+author: shangxi2ban
+pygments: true
+paginate: 24
