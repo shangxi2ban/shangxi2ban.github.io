@@ -216,6 +216,10 @@ dl .meta {
     margin-top: 14px;
 }
 
+.listing {
+    font-size: 1.2em;
+}
+
 .listing-item,.listing-seperator{list-style-type:none;}
 .listing-item a{
     padding:.2em 1em;
