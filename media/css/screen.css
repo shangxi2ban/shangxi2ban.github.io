@@ -191,6 +191,12 @@ strong {
 img.old {
     width: 920px;
 }
+
+img.old2 {
+    width: 900px;
+    border: 6px solid #FFF280;
+    margin: 10px;
+}
 img.avatar {
     position: relative;
     float: right;
