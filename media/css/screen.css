@@ -193,8 +193,8 @@ img.old {
 }
 
 img.old2 {
-    width: 455px;
     margin: 5px;
+    max-width: 950px;
 }
 img.avatar {
     position: relative;
